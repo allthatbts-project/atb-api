@@ -74,6 +74,9 @@
     <None Update="SQL\SelectCommentList.sql">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="SQL\SelectInstagramData.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="SQL\SelectSubCommentList.sql">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
@@ -83,10 +86,16 @@
     <None Update="SQL\SelectToken.sql">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="SQL\SelectTwitterData.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="SQL\SelectUserByEmail.sql">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="SQL\SelectUser.sql">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="SQL\SelectYoutubeData.sql">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="SQL\UpdateArticle.sql">
